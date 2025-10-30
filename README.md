@@ -1,5 +1,4 @@
-## Hi there 👋
-# LMaiden
+
 # Hello there 👋
 
 ![](https://github.com/LMaiden/LMaiden/blob/main/header.png)
