@@ -2,7 +2,7 @@
 # LMaiden
 # Hello there 👋
 
-![](https://github.com/LMaiden/LMaiden/blob/master/header.png)
+![](https://github.com/LMaiden/LMaiden/blob/main/header.png)
 
 I make some **Evolutionary Algorithms** 🦐 **Physics Engine** 🌈  and **Data Manipulation** 🌐  
 
